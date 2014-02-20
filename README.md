@@ -5,7 +5,7 @@ A simple app to retrieve the number of hearts an app has in the Pebble App Store
 
 This app uses the <a href="http://pblweb.com" target="_blank">PblWeb</a>'s Heart API to retrieve info from the Pebble App Store. Thanks a lot to <a href="https://twitter.com/matthewtole">Matthew Tole</a> for making this API and for the instructions about how to retrieve the appstore ID.
 
-You can choose to receive push notifications and set an automatic refresh timer to fetch this API in the background if you want. A local notification will be presented with the new number of hearts and the amount changed since the last fetch.
+You can choose to receive push notifications and set an automatic refresh timer to fetch the API in the background if you want. A local notification will be scheduled with the new number of hearts and the amount changed since the last fetch.
 
 Feel free to install it on your iPhone if you like it :)
 
