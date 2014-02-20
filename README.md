@@ -3,7 +3,7 @@ PebbleAppStoreHearts
 
 A simple app to retrieve the number of hearts an app has in the Pebble App Store given its App ID. It sends a push notification when the number changes too.
 
-This app uses the <a href="http://pblweb.com">PblWeb</a>'s Heart API to retrieve info from the Pebble App Store.
+This app uses the <a href="http://pblweb.com" target="_blank">PblWeb</a>'s Heart API to retrieve info from the Pebble App Store.
 
 You can choose to receive push notifications and set an automatic refresh timer to fetch this API in the background if you want. A local notification will be presented with the new number of hearts and the amount changed since the last fetch.
 
